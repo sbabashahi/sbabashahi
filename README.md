@@ -41,5 +41,3 @@
 <a href="https://stackoverflow.com/users/8258902/mastisa"><img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-333333?style=flat&logo=stackoverflow"></a>
 <a href="mailto:sbabashahi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
