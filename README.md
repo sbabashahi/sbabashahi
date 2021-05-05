@@ -34,10 +34,10 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Reach Me From </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sbabashahi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8258902/mastisa"><img alt="StackOverFlow" src="https://img.shields.io/badge/-StackOverFlow-333333?style=flat&logo=stackoverflow"></a>
-<a href="mailto:sbabashahi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email?style=flat-square&logo=gmail"></a>
+<a href="mailto:sbabashahi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail"></a>
 </p>
