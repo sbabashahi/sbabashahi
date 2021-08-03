@@ -3,10 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Exploring new technologies and developing software solutions.
-- Python developer experienced in Back End development with Django.<br> 
+- Software Engineer experienced in Python and Back End development with Django.<br> 
 - I am able to write efficient and reliable code by applying clean code guidelines.<br>
-- I like working as Back End Developer as well as learning new skills in computer world. <br>
-- Also I am newbie gopher.
+- I like working as Back End Engineer as well as learning new skills in computer world. <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -15,9 +14,11 @@
   ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/-Fastapi-333333?style=flat&logo=fastapi)
   ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
 - &nbsp;
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
