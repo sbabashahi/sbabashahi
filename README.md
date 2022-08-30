@@ -3,8 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - Exploring new technologies and developing software solutions.
-- Software Engineer experienced in Python and Back End development with Django.<br> 
-- I am able to write efficient and reliable code by applying clean code guidelines.<br>
 - I like working as Back End Engineer as well as learning new skills in computer world. <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
